@@ -1,6 +1,6 @@
 # Native Node Test Runner Demo
 
-A small demo of the native node test runner
+A small demo of the native node test runner.
 
 **Run tests**
 

@@ -1,0 +1,14 @@
+{
+  "name": "node-test-runner-demo",
+  "version": "1.0.0",
+  "description": "A small demo of the native node test runner",
+  "type": "module",
+  "main": "math.js",
+  "scripts": {
+    "test": "node --test",
+    "test:watch": "node --test --watch ."
+  },
+  "author": "Tyler Gaw <me@tylergaw.com> (https://tylergaw.com)",
+  "license": "ISC",
+  "homepage": "https://nodejs.org/api/test.html"
+}
